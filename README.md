@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2c3338e-94f6-4dbb-82f1-ee3cf28edbad)# sanber-api-automation
+# sanber-cypress
 
 Ini adalah tugas automation cypress sanbercode pekanan 4
 
