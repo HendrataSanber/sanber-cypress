@@ -10,7 +10,9 @@ Ini adalah tugas automation cypress sanbercode pekanan 4
   SauceDemo Login Flow
   ##### Test Case
   Success login standar user
+  
   Failed login locked out user
+  
   Failed login wrong password
 
 ## Test Suite / Scenario
