@@ -15,12 +15,12 @@ Ini adalah tugas automation cypress sanbercode pekanan 4
 
 ## Test Suite / Scenario
   SauceDemo Product Detail
-  ### Test Case
+  ##### Test Case
   Success browsing first item
 
 ## Test Suite / Scenario
   SauceDemo Add To Cart
-  ### Test Case
+  ##### Test Case
   Success add to cart
 
 ## Run Test
